@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 24px;
+    padding: 22px;
+    background-color: black;
+}
+
+h2 {
+    text-decoration: burlywood;
+    background-color: black;
+    margin: 50px;
+}
+
+.container {
+    color: rgb(54, 3, 13);
+}
+
+body {
+    background-color: darkgray;
+}
+
+.iron-man {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: black 50px;
+}
+
+p {
+    margin: 25px;
+}
+
+h2 {
+    text-align: center;
+    size: 35px;
+    color:crimson;
+}
+
+ul {
+    text-align: center;
+}
+
+html {
+    border: black;
+}
+
+.column {
+    float: left;
+    width: 33%;
+    margin-bottom: 16px;
+    padding:0 8px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 0 16px;
+}
+
